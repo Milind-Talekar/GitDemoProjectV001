@@ -2,7 +2,8 @@
 public class Test31 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		String s2 = "Adding a code please check";
+		System.out.println(s2);
 
 	}
 
